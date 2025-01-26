@@ -1,5 +1,5 @@
 ![Banner](./images/banner.png)
-# A propos de moi :
+# <i class="fa-regular fa-user" style="color: #63E6BE;"></i> A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai
 découvert le développement Web pendant le confinement COVID-19.
