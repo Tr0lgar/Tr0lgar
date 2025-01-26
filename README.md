@@ -30,9 +30,9 @@ plus axée sur la pratique.
 ---
 
 ## <img src="./icons/earth.svg" width="24"/> Me retrouver :  
-- <img src="./icons/linkedin.svg" width="16"/> : [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
-- **Portfolio** : [PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)* 
-- <img src="./icons/envelope.svg" width="16"/> : [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)  
+- <img src="./icons/linkedin.svg" width="16"/>  [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
+- <img src="./icons/envelope.svg" width="16"/>  [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)
+- <img src="./images/logo.png" width="16"/>  [PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)*   
 
 
 Merci de visiter mon GitHub ! N’hésitez pas à explorer mes projets et à me contacter pour collaborer ou échanger. 🚀
