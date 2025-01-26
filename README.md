@@ -25,9 +25,7 @@ plus axée sur la pratique.
 ## <img src="./icons/toolbox.svg" width="24rem"/> Mes outils et compétences actuelles en développement :  
 | 🌐 **Frontend**       | 💾 **Backend**         | 🗄️ **Bases de données** | 🔧 **Outils**                  |
 |-----------------------|-----------------------|--------------------------|--------------------------------|
-| HTML5, CSS3, SCSS    | PHP, Laravel, Java   | SQL, PostgreSQL          | Git/GitHub/GitLab, VS Code    |
-| JavaScript, React.js | Node.js, Express.js  | MongoDB                  | Jira, Confluence, Jetbrains   |
-| Angular              | C#, Python           |                          | SCRUM, gestion de projets     |
+| HTML5, CSS3, SCSS, JavaScript, React.js, Angular    | PHP, Laravel, Java, C#, Node.js, Express.js   | SQL, PostgreSQL, MongoDB           | Git/GitHub/GitLab, VS Code, Jira, Confluence, Jetbrains, SCRUM, gestion de projets    |
  
 ---
 
