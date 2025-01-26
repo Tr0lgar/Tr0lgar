@@ -1,5 +1,8 @@
 ![Banner](./images/banner.png)
-# <img src="./images/user.svg" width="20"/> A propos de moi :
+
+---
+
+# <img src="./icons/user.svg" width="20"/> A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai
 découvert le développement Web pendant le confinement COVID-19.
@@ -10,25 +13,28 @@ plus axée sur la pratique.
 
 💡 J'adore apprendre de nouvelles technologies et relever des défis techniques pour améliorer mes compétences.
 
+---
 
-## 🚀 Ce que je fais actuellement :  
-- 🌱 Formation intensive en développement Web full stack.  
-- 🛠️ Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
-- 📚 Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
+## <img src="./icons/rocket.svg" width="20"/> Ce que je fais actuellement :  
+- <img src="./icons/seedling.svg" width="20"/> Formation intensive en développement Web full stack.  
+- <img src="./icons/tools.svg" width="20"/> Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
+- <img src="./icons/poeple-arrows.svg" width="20"/> Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
 
+---
 
-## 🧰 Mes outils et compétences actuelles en développement :  
-- **Frontend** : HTML5, CSS3, SCSS, JavaScript.  
-- **Backend** : PHP, Laravel, Java, C#.  
-- **Base de données** : SQL, PostgreSQL.  
-- **Outils** : Git/GitHub/GitLab, VS Code, suite Jetbrains, Jira, Confluence.  
-- **Méthodes de travail** : Agile (SCRUM), gestion de projets collaboratifs, résolution de problèmes.  
+## <img src="./icons/toolbox.svg" width="20"/> Mes outils et compétences actuelles en développement :  
+| 🌐 **Frontend**       | 💾 **Backend**         | 🗄️ **Bases de données** | 🔧 **Outils**                  |
+|-----------------------|-----------------------|--------------------------|--------------------------------|
+| HTML5, CSS3, SCSS    | PHP, Laravel, Java   | SQL, PostgreSQL          | Git/GitHub/GitLab, VS Code    |
+| JavaScript, React.js | Node.js, Express.js  | MongoDB                  | Jira, Confluence, Jetbrains   |
+| Angular              | C#, Python           |                          | SCRUM, gestion de projets     |
+ 
+---
 
-
-## 🌍 Retrouvez-moi ici :  
-- **LinkedIn** : [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
+## <img src="./icons/earths.svg" width="20"/> Me retrouver :  
+- <img src="./icons/linkedin.svg" width="20"/> : [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
 - **Portfolio** : [PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)* 
-- **Email** : [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)  
+- <img src="./icons/envelope.svg" width="20"/> : [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)  
 
 
 Merci de visiter mon GitHub ! N’hésitez pas à explorer mes projets et à me contacter pour collaborer ou échanger. 🚀
