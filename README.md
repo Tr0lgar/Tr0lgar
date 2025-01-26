@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="./icons/user.svg" width="2rem"/> A propos de moi :
+# <img src="./icons/user.svg" width="32"/> A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai
 découvert le développement Web pendant le confinement COVID-19.
@@ -15,14 +15,14 @@ plus axée sur la pratique.
 
 ---
 
-## <img src="./icons/rocket.svg" width="1.5rem"/> Ce que je fais actuellement :  
-- <img src="./icons/seedling.svg" width="1rem"/> Formation intensive en développement Web full stack.  
-- <img src="./icons/tools.svg" width="1rem"/> Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
-- <img src="./icons/people-arrows.svg" width="1rem"/> Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
+## <img src="./icons/rocket.svg" width="24"/> Ce que je fais actuellement :  
+- <img src="./icons/seedling.svg" width="16"/> Formation intensive en développement Web full stack.  
+- <img src="./icons/tools.svg" width="16"/> Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
+- <img src="./icons/people-arrows.svg" width="16"/> Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
 
 ---
 
-## <img src="./icons/toolbox.svg" width="1.5rem"/> Mes outils et compétences actuelles en développement :  
+## <img src="./icons/toolbox.svg" width="24rem"/> Mes outils et compétences actuelles en développement :  
 | 🌐 **Frontend**       | 💾 **Backend**         | 🗄️ **Bases de données** | 🔧 **Outils**                  |
 |-----------------------|-----------------------|--------------------------|--------------------------------|
 | HTML5, CSS3, SCSS    | PHP, Laravel, Java   | SQL, PostgreSQL          | Git/GitHub/GitLab, VS Code    |
@@ -31,10 +31,10 @@ plus axée sur la pratique.
  
 ---
 
-## <img src="./icons/earth.svg" width="1.r5em"/> Me retrouver :  
-- <img src="./icons/linkedin.svg" width="1rem"/> : [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
+## <img src="./icons/earth.svg" width="24"/> Me retrouver :  
+- <img src="./icons/linkedin.svg" width="16"/> : [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
 - **Portfolio** : [PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)* 
-- <img src="./icons/envelope.svg" width="1rem"/> : [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)  
+- <img src="./icons/envelope.svg" width="16"/> : [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)  
 
 
 Merci de visiter mon GitHub ! N’hésitez pas à explorer mes projets et à me contacter pour collaborer ou échanger. 🚀
