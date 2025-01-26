@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Salut%2C+je+suis+Mathis+!%F0%9F%91%8B;Bienvenue+sur+mon+GitHub+!)](https://git.io/typing-svg)
+![Banner](./images/banner.png)
 # A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai
