@@ -31,9 +31,9 @@ plus axée sur la pratique.
 
 ## <img src="./icons/earth.svg" width="24"/> Me retrouver :  
 <div align="center">
-- <img src="./icons/linkedin.svg" width="16"/>  [Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
-- <img src="./icons/envelope.svg" width="16"/>  [mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)
-- <img src="./images/logo.png" width="16"/>  [PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)*
+<img src="./icons/linkedin.svg" width="16"/>[Mathis Derwael](www.linkedin.com/in/mathis-derwael)  
+<img src="./icons/envelope.svg" width="16"/>[mathis.derwael@gmail.com](mailto:mathis.derwael@gmail.com)
+<img src="./images/logo.png" width="16"/>[PortfoliOS](https://tr0lgar.github.io/portfoliOS/) *(work in progress)*
 </div>
 
 
