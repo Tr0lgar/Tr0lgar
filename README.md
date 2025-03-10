@@ -4,7 +4,7 @@
 
 # <img src="./icons/user.svg" width="32"/> A propos de moi :
 
-Passionné par les défis, la précision et les solutions concrètes, j’ai
+Passionné par les défis, la précision et les solutions concrètes, j’ai   
 découvert le développement Web pendant le confinement COVID-19.
 Initialement attiré par la chirurgie, j’ai réorienté ma rigueur scientifique vers
 la création de solutions digitales. Après avoir testé un cursus en
