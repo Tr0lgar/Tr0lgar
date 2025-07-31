@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="./icons/user.svg" height="32px"/> A propos de moi :
+# <img src="./icons/user.svg" height="32"/> A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai   
 découvert le développement Web pendant le confinement COVID-19.
@@ -15,10 +15,10 @@ plus axée sur la pratique.
 
 ---
 
-## <img src="./icons/rocket.svg" width="24"/> Ce que je fais actuellement :  
-- <img src="./icons/seedling.svg" width="16"/> Formation intensive en développement Web full stack.  
-- <img src="./icons/tools.svg" width="16"/> Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
-- <img src="./icons/people-arrows.svg" width="16"/> Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
+## <img src="./icons/rocket.svg" height="24"/> Ce que je fais actuellement :  
+- <img src="./icons/seedling.svg" height="16"/> Formation intensive en développement Web full stack.  
+- <img src="./icons/tools.svg" height="16"/> Apprentissage de technologies modernes comme **HTML**, **CSS**, **JavaScript**, **Node.js**, **React.js**, **Angular**, **Express**, et **MongoDB**.  
+- <img src="./icons/people-arrows.svg" height="16"/> Projets pratiques et collaboratifs pour renforcer mes compétences techniques et mon expérience. 
 
 ---
 
