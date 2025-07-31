@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="./icons/user.svg" height="1em"/> A propos de moi :
+# <img src="./icons/user.svg" height="1rem"/> A propos de moi :
 
 Passionné par les défis, la précision et les solutions concrètes, j’ai   
 découvert le développement Web pendant le confinement COVID-19.
